@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Discord.JS and related technologies  
   
 
-- ⚡ Fun fact: I own a official license to own a bow.  
+- ⚡ Fun fact: I wasted over 60 minutes to fix one issue.
   
 
 <br/>  
