@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, you can call me Auth</h1>
-<h3 align="center">A backend developer from Canada</h3>
+<h1 align="center">hi, you can call me Auth</h1>
+<h3 align="center">Security & System analyst</h3>
 
-- 🔭 I’m currently working on [A SSH Manager written in Python](https://github.com/auth-xyz/sshman)
 
-- 🌱 I’m currently learning **Tensorflow and Java**
-
-- 💬 Ask me about **nextcord, discord.js**
+- 🌱 I’m currently re-learning **C/C++**
 
 - 📫 How to reach me **contact.me.auth@gmail.com**
 
