@@ -9,5 +9,5 @@
 
 #### :telescope: Projects
 
-- [rconpp](https://github.com/auth-xyz/sshman) - A OpenSSH Session manager.
-- [Hexwave](https://github.com/auth-xyz/serenitygen) - A simple General Usage Administration Bot for Discord written in C++.
+- [sshman](https://github.com/auth-xyz/sshman) - A OpenSSH Session manager.
+- [serenitygen](https://github.com/auth-xyz/serenitygen) - A simple General Usage Administration Bot for Discord written in C++.
