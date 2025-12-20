@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=auth-xyz)](https://github.com/auth-xyz/github-readme-stats)
 
 #### :telescope: My (y) projects:
 
